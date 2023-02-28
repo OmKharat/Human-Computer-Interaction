@@ -1,0 +1,3 @@
+<launch>
+	<param name="robot_description" textfile="$(find /home/omkharat/Desktop/IvLabs/RoboticsKinematics/ur5.urdf)" />
+</launch>
