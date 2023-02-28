@@ -8,3 +8,7 @@ which is then processed to control the manipulator arm.
 
 - Till date, we have successfully implemented a convolutional neural network for detecting hand pose on
 the COCO dataset, achieving promising results in accurately localizing and classifying hand gestures.
+
+
+NOTE:
+- Use the cloned git repo zip to get urdf file for UR5 model.
